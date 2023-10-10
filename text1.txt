@@ -9,3 +9,13 @@ addind from browser:
 
  ADDING CHANGES IN VS CODE:
  git pull
+
+ ADDING FOLDERS INTO GIT FROM COMPUTER:
+ git add .
+ git commit -m name
+ create a new repository in github
+ after type git remote add origin "link"
+type git branch    to see the branch
+then it is the name of the branch
+if you need to modify the branch name:
+then type git branch -M main
