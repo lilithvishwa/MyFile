@@ -1,10 +1,11 @@
-creates text
+
 addind from browser:
  git clone https://github.com/lilithvishwa/github.git
  addind in VS CODE:
-git status
  git add test2.txt
-
  git commit -m "test2.txt file added"
  git status
  git push origin main
+
+ ADDING CHANGES IN VS CODE:
+ git pull
