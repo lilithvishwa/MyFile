@@ -7,7 +7,7 @@
  git status
  git push origin main
 
- ADDING CHANGES IN VS CODE:
+ ADDING CHANGES FROM GITHUB TO VS CODE:
  git pull
 
 ADDING FOLDERS INTO GIT FROM COMPUTER:
@@ -38,3 +38,13 @@ TYPE> git checkout branchname
 TO VERIFY YOU'RE INSIDE IN A BRANCH:
 TYPE> git branch -a 
 
+TO SWITCH A ANOTHER BRANCH:
+TYPE> git checkout name of the branch
+//it will show switched to branch "name"
+
+TO SEE THE DIFFERENCE BETWEEN THE MAIN BRANCH AND OTHERBRANCH:
+TYPE> git diff name of the branch
+
+TO MERGE THE ITEMS IN MAIN BRANCH:
+TYPE> git merge name //here name means where you need to merge
+//that is name of the otherbranch to merge
