@@ -48,3 +48,11 @@ TYPE> git diff name of the branch
 TO MERGE THE ITEMS IN MAIN BRANCH:
 TYPE> git merge name //here name means where you need to merge
 //that is name of the otherbranch to merge
+
+IF YOU WANT TO JOIN THE CODE INTO ANOTHER BRANCH :
+YOU NEED TO "PULL REQUEST" IN THE GITHUB
+
+IF ALL ARE WORKING FOR SAME PROJECT IN DIFFERENT BRANCH AND
+YOU NEED TO GET THE CHANGES(INFORMATION) FROM THE OTHERBRANCH
+NOW YOU NEED TO TYPE:
+git pull origin main //here main is the name of the branch
