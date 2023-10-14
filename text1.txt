@@ -1,7 +1,7 @@
-
-addind from browser:
+ ADDING FROM BROWSER:
  git clone https://github.com/lilithvishwa/github.git
- addind in VS CODE:
+
+ ADDING IN VS CODE:
  git add test2.txt
  git commit -m "test2.txt file added"
  git status
@@ -13,19 +13,28 @@ addind from browser:
 ADDING FOLDERS INTO GIT FROM COMPUTER:
  git add .
  git commit -m name
- create a new repository in github
- after type git remote add origin "link"
-type git branch    to see the branch
+
+CREATE A NEW REPOSITORY IN GIT:
+
+AFTER TYPE>  git remote add origin "link"
+TYPE> git branch    to see the branch
 then it is the name of the branch
-if you need to modify the branch name:
-then type git branch -M main
+
+IF YOU WANT TO MODIFY THE NAME OF THE BRANCH :
+TYPE> git branch -M main
 
  ADDING FOLDERS INTO GIT FROM COMPUTER:
+
  git add .
  git commit -m name
- create a new repository in github
- after type git remote add origin "link"
-type git branch    to see the branch
-then it is the name of the branch
-if you need to modify the branch name:
-then type git branch -M main
+
+TO CHECH THE BRANCH:
+git branch  
+
+AFTER CREATING A NEW BRANCH IN GITHUB:
+TYPE> git checkout branchname
+// then it shows the newly added branch
+
+TO VERIFY YOU'RE INSIDE IN A BRANCH:
+TYPE> git branch -a 
+
